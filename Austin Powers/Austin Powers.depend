@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1494604832 source:d:\austin powers\main.cpp
+	<iostream>
+	<vector.h>
+	<math.h>
+	<punto.h>
+
+1494605104 d:\austin powers\include\vector.h
+	"Punto.h"
+
+1494605053 d:\austin powers\include\punto.h
+
+1494605177 source:d:\austin powers\src\punto.cpp
+	<iostream>
+	"Punto.h"
+
+1494605281 source:d:\austin powers\src\vector.cpp
+	<iostream>
+	"Vector.h"
+	<math.h>
+
+1494605301 source:d:\clase1\austin powers\main.cpp
+	<iostream>
+	<vector.h>
+	<math.h>
+	<punto.h>
+
