@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1495663634 source:c:\users\jktm\desktop\programacíon\c++\herencia\main.cpp
+	<iostream>
+	"Persona.h"
+	"Estudiante.h"
+	"Empleado.h"
+
+1495662387 c:\users\jktm\desktop\programacíon\c++\herencia\include\persona.h
+	<iostream>
+
+1495661050 source:c:\users\jktm\desktop\programacíon\c++\herencia\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1495663238 source:c:\users\jktm\desktop\programacíon\c++\herencia\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+
+1495662833 c:\users\jktm\desktop\programacíon\c++\herencia\include\empleado.h
+	"Persona.h"
+
+1495663052 source:c:\users\jktm\desktop\programacíon\c++\herencia\src\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+	"Persona.h"
+
+1495663052 c:\users\jktm\desktop\programacíon\c++\herencia\include\estudiante.h
+	"Persona.h"
+
