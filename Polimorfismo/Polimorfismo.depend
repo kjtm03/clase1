@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1495668065 source:c:\users\jktm\desktop\programacíon\c++\polimorfismo\main.cpp
+	<iostream>
+	"Animal.h"
+	"Humano.h"
+	"Perro.h"
+
+1495667170 c:\users\jktm\desktop\programacíon\c++\polimorfismo\include\animal.h
+	<iostream>
+
+1495667229 c:\users\jktm\desktop\programacíon\c++\polimorfismo\include\humano.h
+	"Animal.h"
+	<iostream>
+
+1495667229 c:\users\jktm\desktop\programacíon\c++\polimorfismo\include\perro.h
+	"Animal.h"
+	<iostream>
+
+1495667159 source:c:\users\jktm\desktop\programacíon\c++\polimorfismo\src\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1495667158 source:c:\users\jktm\desktop\programacíon\c++\polimorfismo\src\humano.cpp
+	"Humano.h"
+	<iostream>
+
+1495667388 source:c:\users\jktm\desktop\programacíon\c++\polimorfismo\src\perro.cpp
+	"Perro.h"
+	<iostream>
+
