@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1495987917 source:c:\users\jktm\desktop\programacíon\c++\juego\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<conio.h>
+	"Nave.h"
+	"Borde.h"
+
+1495987893 c:\users\jktm\desktop\programacíon\c++\juego\include\nave.h
+
+1495988272 source:c:\users\jktm\desktop\programacíon\c++\juego\src\nave.cpp
+	"Nave.h"
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1495919934 c:\users\jktm\desktop\programacíon\c++\juego\include\bordes.h
+
+1495927048 c:\users\jktm\desktop\programacíon\c++\juego\include\borde.h
+
+1495929464 source:c:\users\jktm\desktop\programacíon\c++\juego\src\borde.cpp
+	"Borde.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
