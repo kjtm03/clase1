@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1496014741 source:d:\juegofinal\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"Nave.h"
+
+1496014663 d:\juegofinal\include\nave.h
+
+1496017534 source:d:\ciencia-de-la-computacion-1\juegofinal\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"Nave.h"
+
+1496017557 d:\ciencia-de-la-computacion-1\juegofinal\include\nave.h
+
+1496017534 source:d:\ciencia-de-la-computacion-1\juegofinal\src\nave.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"Nave.h"
+
