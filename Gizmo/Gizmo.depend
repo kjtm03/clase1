@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496156042 source:d:\gizmo\main.cpp
+	<iostream>
+	<vector>
+
