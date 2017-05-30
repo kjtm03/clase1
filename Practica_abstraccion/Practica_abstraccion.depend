@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1496154724 source:d:\clase1\practica_abstraccion\main.cpp
+	<iostream>
+	<Persona.h>
+	<Gerente.h>
+	<Janitor.h>
+	"Birthday.h"
+
+1496154724 d:\clase1\practica_abstraccion\include\persona.h
+	"Birthday.h"
+	<iostream>
+
+1496154724 d:\clase1\practica_abstraccion\include\birthday.h
+
+1496154724 d:\clase1\practica_abstraccion\include\gerente.h
+	<Persona.h>
+	"Birthday.h"
+	<iostream>
+
+1496154724 d:\clase1\practica_abstraccion\include\janitor.h
+	<Persona.h>
+	"Birthday.h"
+
+1496154724 source:d:\clase1\practica_abstraccion\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1496154724 source:d:\clase1\practica_abstraccion\src\gerente.cpp
+	"Gerente.h"
+	<iostream>
+	"Birthday.h"
+
+1496154724 source:d:\clase1\practica_abstraccion\src\janitor.cpp
+	"Janitor.h"
+	<iostream>
+	"Birthday.h"
+

@@ -14,7 +14,7 @@ class Persona
         Birthday b;
     public:
         Persona(string,string,int,Birthday);
-        void MostrarDatos();
+        virtual void MostrarDatos();
         ~Persona();
 
 
