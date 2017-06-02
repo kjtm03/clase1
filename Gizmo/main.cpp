@@ -22,7 +22,7 @@ void do_it(Widget *w){
 }*/
 class Avion{
     public:
-        virtual void mensaje()const = 0;
+        virtual void mensaje() = 0;
     };
     class Avion_1:public Avion{
         public:
@@ -40,13 +40,13 @@ class Torre{
     public:
        vector <Avion *> aviones;
        Torre(){}
-       void adicionar(Avion_1 o){
-        aviones.push_back(&o);
-        o.Mensaje();
+        void adicionar(Avion_1 o){
+            aviones.push_back(&o);
+            o.mensaje();
         }
         void adicionar(Avion_2 o){
-        aviones.push_back(&o);
-        o.Mensaje();
+            aviones.push_back(&o);
+            o.mensaje();
         }
 
 
