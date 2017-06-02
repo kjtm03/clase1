@@ -34,8 +34,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Avion.h" />
-		<Unit filename="include/Torre.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Avion.cpp" />
 		<Unit filename="src/Torre.cpp" />
