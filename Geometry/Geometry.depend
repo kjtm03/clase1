@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1497328234 source:d:\geometry\main.cpp
+	<iostream>
+	"Geometry.h"
+
+1497328234 d:\geometry\include\geometry.h
+
+1497328234 source:d:\geometry\src\geometry.cpp
+	"Geometry.h"
+	<cmath>
+	<cstdlib>
+
+1497328234 source:d:\geometry\src\pointarray.cpp
+	"PointArray.h"
+	<iostream>
+
+1497328234 d:\geometry\include\pointarray.h
+	"Point.h"
+
+1497328234 d:\geometry\include\point.h
+
+1497488860 source:c:\users\jktm\desktop\geometry\main.cpp
+	<iostream>
+	"Geometry.h"
+
