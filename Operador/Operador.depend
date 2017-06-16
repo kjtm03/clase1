@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497618407 source:c:\users\jktm\desktop\programacíon\c++\operador\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+
