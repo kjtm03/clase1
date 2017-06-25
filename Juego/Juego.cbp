@@ -35,9 +35,11 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Borde.h" />
+		<Unit filename="include/Kamikaze.h" />
 		<Unit filename="include/Nave.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Borde.cpp" />
+		<Unit filename="src/Kamikaze.cpp" />
 		<Unit filename="src/Nave.cpp" />
 		<Extensions>
 			<code_completion />

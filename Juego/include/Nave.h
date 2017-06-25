@@ -16,9 +16,9 @@ class Nave
         void mover();
         void numeroVidas();
         void morir();
-
-
-
+        int get_x(){return x;}
+        int get_y(){return y;}
+        void danio(){vidas--;}
 };
 
 #endif // NAVE_H

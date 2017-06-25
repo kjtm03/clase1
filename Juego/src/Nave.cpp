@@ -35,8 +35,9 @@ void Nave::caracter()
 }
 void Nave::borrar()
 {
-    coordenada(x,y);printf("      ");
-    coordenada(x,y+1);printf("      ");
+    coordenada(x-5,y);printf("     ");
+    coordenada(x,y);printf("           ");
+    coordenada(x,y+1);printf("           ");
     coordenada(x,y+2);printf("      ");
 }
 void Nave::mover()
@@ -49,7 +50,7 @@ void Nave::mover()
                 if(tecla == 'd' && x+5<78)x++;
                 if(tecla == 'w' && y>3)y--;
                 if(tecla == 's'&& y+3<33)y++;
-                if(tecla == 'e')vidas--;
+                if(tecla == 'e')vidas++;
                 if(tecla == TECLA_IZQUIERDA && x>2)x--;
                 if(tecla == TECLA_DERECHA && x+5<78)x++;
                 if(tecla == TECLA_ARRIBA && y>3)y--;
@@ -62,7 +63,7 @@ void Nave::mover()
 void Nave::numeroVidas()
 {
     coordenada(2,35);printf("Vidas: ");
-    coordenada(8,35);printf("       ");
+    coordenada(8,35);printf("                      ");
     for(int i = 0; i<vidas;i++){
         coordenada(9+i,35); printf("%c",3);
     }
