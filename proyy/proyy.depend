@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1498574018 source:d:\proyy\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"Nave.h"
+	"Borde.h"
+	"Kamikaze.h"
+	"list"
+
+1498573830 d:\proyy\include\nave.h
+
+1498574018 d:\proyy\include\borde.h
+
+1498573830 d:\proyy\include\kamikaze.h
+
+1498574018 source:d:\proyy\src\borde.cpp
+	"Borde.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1498574018 source:d:\proyy\src\kamikaze.cpp
+	"Kamikaze.h"
+	"Nave.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1498574049 source:d:\proyy\src\nave.cpp
+	"Nave.h"
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
